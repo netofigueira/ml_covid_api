@@ -1,0 +1,16 @@
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+simplejson==3.16.0
+numpy==1.16.4
+pandas==1.1.0
+scikit-learn==0.23.1
+werkzeug==0.16.1
+scipy==1.5.2
+requests==2.22.0
+gunicorn==19.9.0
+xgboost
+joblib
+flask-restful
+flask-restplus
